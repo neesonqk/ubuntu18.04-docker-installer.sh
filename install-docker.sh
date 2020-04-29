@@ -54,7 +54,7 @@ sudo apt update
 
 sudo apt install docker-ce -y
 
-sudo systemctl status docker
+sudo docker version
 
 bigecho "Docker installiation is completed."
 
