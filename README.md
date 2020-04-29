@@ -1,4 +1,5 @@
-# ubuntu18.04-docker-installer.sh
+# ubuntu18.04 docker installer
+
 Shell command to install docker for *ubuntu (Ubuntu, Lubuntu, Xubuntu ... ).
 
 
